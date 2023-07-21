@@ -1,0 +1,3 @@
+[submodule "raptoreum_hash"]
+	path = raptoreum_hash
+	url = https://github.com/nandofw/raptoreum_hash
